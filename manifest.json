@@ -4,6 +4,9 @@
     "version": "1.0",
     "description": "🪄 A magical text tool to transform words into upper, lower, title, kebab case — and copy them instantly.",
     "action": {
-        "default_popup": "index.html"
+        "default_popup": "index.html",
+        "default_icon": {
+            "128": "icon.png"
+        }
     }
 }
